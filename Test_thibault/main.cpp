@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    //debut du code
     int age,annee_naissance;
     cout << "Hello world!" << endl;
     cout << "Ton age?" << endl;
