@@ -11,6 +11,6 @@ int main()
     cout << "Tu as " << age << " ans" << endl;
     annee_naissance=2022-age;
     cout<< "tu es ne en " << annee_naissance<< endl;
-
+    //FIN DU CODE
     return 0;
 }
